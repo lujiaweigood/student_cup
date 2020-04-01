@@ -4,4 +4,4 @@ https://signate.jp/competitions/137
 
 Score board ranking 4th
 https://signate.jp/competitions/137/summary
-rukai
+# rukai
